@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class stopWatch {
+public class StopWatch {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         long start, end;

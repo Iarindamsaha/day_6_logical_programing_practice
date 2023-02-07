@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class perfectNumber {
+public class PerfectNumber {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter The Number To Check Perfect or Not");
@@ -9,7 +9,7 @@ public class perfectNumber {
         int i =1;
         while(i<= input/2){
             if (input%i==0){
-                sum = sum +i;
+                sum = sum + i;
             }
             i++;
         }
