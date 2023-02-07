@@ -6,12 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cd994d33-88cf-4e8c-bc79-fe0e66d0e306" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TemparatureCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TemparatureCalc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/perfectNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PerfectNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/primeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stopWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StopWatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +31,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/asaha/Desktop/Java_Fellowship_242/Day_6_logical_programing_problem&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/asaha/Desktop/Java_Fellowship_242/Day_6_logical_programing_problem",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
